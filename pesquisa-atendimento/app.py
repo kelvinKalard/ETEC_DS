@@ -1,7 +1,7 @@
 excelente = 0
 ruim = 0
 
-for i in range(10):
+for i in range(50):
     print("Entrevistado número:", i + 1)
 
     nome = input("Digite o nome: ")
